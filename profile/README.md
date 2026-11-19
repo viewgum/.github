@@ -9,7 +9,7 @@ YouTube Shorts and Facebook Reels. You edit them in chat or on a timeline, or fr
 | Repository | What it is |
 |---|---|
 | [short-form-video-specs](https://github.com/viewgum/short-form-video-specs) | Safe zones in pixels for TikTok, Shorts and Reels, length and caption limits, PNG overlay templates, a JavaScript module and a CLI, with each figure's source and the date it was read. Free, works offline |
-| [skills](https://github.com/viewgum/skills) | Agent skills and the ViewGum MCP connector for Claude Code, Codex, Gemini CLI and other agents. The specs skill is free; making videos needs a paid ViewGum plan |
+| [skills](https://github.com/viewgum/skills) | Agent skills and the ViewGum MCP connector for Claude Code, Codex, Gemini CLI and other agents. The specs skill is free; making videos needs a paid ViewGum plan and credits |
 
 [viewgum.com](https://viewgum.com) · [Free tools](https://viewgum.com/tools) · [Connect an AI assistant](https://viewgum.com/agents) ·
 [X](https://x.com/getviewgum)
